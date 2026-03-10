@@ -1,3 +1,4 @@
 git is a distribution version contral system.
 Git is free sofiware distribution under the GPL.
 Git has a mutable index called stage.
+Git tracks changes.
