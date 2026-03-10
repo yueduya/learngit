@@ -1,2 +1,2 @@
 git is a distribution version contral system.
-Git is free sofiware.
+Git is free sofiware distribution under the GPL.
